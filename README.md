@@ -79,12 +79,12 @@ Translation for this documentation project are currently maintained in separate 
 
 * Repo สำหรับการแปล - [/vuejs-es/vuejs.org](https://github.com/vuejs-es/vuejs.org)
 
-### Vietnamese
+### ภาษาเวียดนาม (Vietnamese)
 
-Vietnamese translation is maintained by [Vue.js Vietnam User group](https://github.com/vuejs-vn/).
+การแปลในภาษาเวียดนาม ดูแลโดย [กลุ่มผู้ใช้งาน Vue.js ชาวเวียดนาม](https://github.com/vuejs-vn/).
 
-* Translation Repo: [/vuejs-vn/vuejs.org](https://github.com/vuejs-vn/vuejs.org)
-* Primary maintainer - [phanan](https://github.com/phanan)
+* Repo สำหรับการแปล: [/vuejs-vn/vuejs.org](https://github.com/vuejs-vn/vuejs.org)
+* ผู้ดูแลหลัก - [phanan](https://github.com/phanan)
 
 ### Want to help with the translation?
 
