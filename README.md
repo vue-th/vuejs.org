@@ -1,7 +1,6 @@
 # vuejs.org
 
-This site is built with [hexo](http://hexo.io/). Site content is written in Markdown format located in `src`. Pull requests welcome!
-ไซต์นี้ถูกสร้างด้วย [hexo](http://hexo.io/). ข้อมูลในไซต์ถูกเขียนในรูปแบบ Markdown อยู่ในโฟลเดอร์ `src`. ยินดีต้อนรับทุก Pull requests.
+ไซต์นี้ถูกสร้างด้วย [hexo](http://hexo.io/). เนื้อหาถูกเขียนในรูปแบบ Markdown อยู่ในโฟลเดอร์ `src`. ยินดีต้อนรับทุก Pull requests.
 
 ## Developing
 
