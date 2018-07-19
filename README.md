@@ -11,11 +11,7 @@ $ npm start # dev server at http://localhost:4000
 
 ## การนำไปใช้ (Deploying)
 
-The site is automatically deployed when commits land in `master`, via [Netlify](https://www.netlify.com/).
-
 ไซต์นี้ถูกนำขึ้นใช้งานโดยอัตโนมัติ ด้วย [Netlify](https://www.netlify.com/) เมื่อมี commit ไปที่ `master` branch
-
-If you are the maintainer of a community translation fork and would like to deploy via Netlify instead of GitHub pages, please ping @yyx990803 in an issue to request a Netlify team membership and DNS update.
 
 หากคุณเป็นผู้ดูแลของชุมชนที่ดูแลการแปลในภาษาใดภาษาหนึ่ง และต้องการนำขึ้นใช้งานด้วย Netlify แทน GitHub pages กรุณาส่งเรื่องมายัง @yyx990803 เพื่อขอสิทธิสมาชิกภาพใน Netlify และทำการอัพเดต DNS
 
