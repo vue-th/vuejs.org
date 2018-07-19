@@ -30,9 +30,9 @@ French translation is maintained by Vuejs-FR.
 
 * Repo สำหรับการแปล - [/vuejs-fr/vuejs.org](https://github.com/vuejs-fr/vuejs.org)
 
-### Italian
+### ภาษาอิตาลี​ (Italian)
 
-* Translation Repo - [/vuejs/it.vuejs.org](https://github.com/vuejs/it.vuejs.org)
+* Repo สำหรับการแปล - [/vuejs/it.vuejs.org](https://github.com/vuejs/it.vuejs.org)
 
 ### Japanese
 
