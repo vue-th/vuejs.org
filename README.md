@@ -62,11 +62,11 @@ French translation is maintained by Vuejs-FR.
 * Repo สำหรับการแปล - [/vuejs-fa/fa.vuejs.org](https://github.com/vuejs-fa/fa.vuejs.org)
 * ผู้ดูแลหลัก - [Pooya Parsa](https://github.com/pi0)
 
-### Português-Br
+### ภาษาโปดุเกส-บราซิล (Português-Br)
 
-Português-Br translation is maintained by [Vuejs-Br](https://github.com/vuejs-br).
+การแปลในภาษาโปตุเกส-บลาซิล ดูแลโดย [Vuejs-Br](https://github.com/vuejs-br).
 
-* Translation Repo - [/vuejs-br/br.vuejs.org](https://github.com/vuejs-br/br.vuejs.org)
+* Repo สำหรับการแปล - [/vuejs-br/br.vuejs.org](https://github.com/vuejs-br/br.vuejs.org)
 
 ### Russian
 
