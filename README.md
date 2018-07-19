@@ -51,9 +51,9 @@ French translation is maintained by Vuejs-FR.
 * Repo สำหรับการแปล - [/vuejs-kr/kr.vuejs.org](https://github.com/vuejs-kr/kr.vuejs.org)
 * ผู้ดูแลหลัก - [ChangJoo Park](https://github.com/ChangJoo-Park)
 
-### Mandarin
+### ภาษาจีนกลาง (Mandarin)
 
-* Translation Repo - [/vuejs/cn.vuejs.org](https://github.com/vuejs/cn.vuejs.org)
+* Repo สำหรับการแปล - [/vuejs/cn.vuejs.org](https://github.com/vuejs/cn.vuejs.org)
 
 ### Persian (Farsi)
 
