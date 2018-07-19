@@ -36,7 +36,7 @@ French translation is maintained by Vuejs-FR.
 
 ### ภาษาญี่ปุ่น (Japanese)
 
-การแปลในภาษาญี่ปุ่น ดูแลโดย [กลุ่มผู้ใช้งาน Vue.js จากญี่ปุ่น](https://github.com/vuejs-jp)
+การแปลในภาษาญี่ปุ่น ดูแลโดย [กลุ่มผู้ใช้งาน Vue.js ชาวญี่ปุ่น](https://github.com/vuejs-jp)
 
 * Repo สำหรับการแปล - [/vuejs/jp.vuejs.org](https://github.com/vuejs/jp.vuejs.org)
 * ผู้ดูแลหลัก - [kazupon](https://github.com/kazupon)
