@@ -86,10 +86,10 @@ Translation for this documentation project are currently maintained in separate 
 * Repo สำหรับการแปล: [/vuejs-vn/vuejs.org](https://github.com/vuejs-vn/vuejs.org)
 * ผู้ดูแลหลัก - [phanan](https://github.com/phanan)
 
-### Want to help with the translation?
+### หากต้องการช่วยเหลือเราด้วยการแปลภาษา?
 
-If you feel okay with translating sorta alone, you can fork the repo, create a "work-in-progress" issue to inform others that you're doing the translation, and go for it.
+หากคุณแปลภาษาด้วยตัวคนเดียวได้อย่างดี คุณสามารถแตกสายจาก Repo ต้นฉบับ และส่งเรื่อง (Issue) ว่า "work-in-progress" เพื่อแจ้งให้คนอื่นๆ ทราบว่าคุณกำลังแปลภาษานั้นๆ อยู่ และลงมือได้เลย
 
-If you are more of a team player, Translation Gang might be for you. Let us know somehow that you're ready to join this international open-source translators community. Feel free to contact [Grigoriy Beziuk](https://gbezyuk.github.io) or anybody else from [the team](https://github.com/orgs/translation-gang/people).
+หากคุณชอบทำงานเป็นทีม การรวมตัวกันเพื่อแปลภาษาแบบ Translator Gang อาจเหมาะสำหรับคุณ แจ้งให้เราทราบว่าคุณพร้อมจะเข้าร่วมเป็นส่วนหนึ่งของชุมชนนักแปลโอเพนซอสสากล และคุณสามารถติดต่อ [Grigoriy Beziuk](https://gbezyuk.github.io) หรือใครก็ตามจาก[ทีม Translator Gang](https://github.com/orgs/translation-gang/people) ได้ทันที
 
-And thank you in advance ;)
+และเราขอขอบคุณล่วงหน้า ;)
