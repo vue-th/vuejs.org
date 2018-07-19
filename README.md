@@ -55,12 +55,12 @@ French translation is maintained by Vuejs-FR.
 
 * Repo สำหรับการแปล - [/vuejs/cn.vuejs.org](https://github.com/vuejs/cn.vuejs.org)
 
-### Persian (Farsi)
+### ภาษาเปอร์เซีย (Persian หรือ Farsi)
 
-Persian translation is maintained by VueJS-fa.
+การแปลในภาษาเปอร์เซีย ดูแลโดย VueJS-fa.
 
-* Translation Repo - [/vuejs-fa/fa.vuejs.org](https://github.com/vuejs-fa/fa.vuejs.org)
-* Primary maintainer - [Pooya Parsa](https://github.com/pi0)
+* Repo สำหรับการแปล - [/vuejs-fa/fa.vuejs.org](https://github.com/vuejs-fa/fa.vuejs.org)
+* ผู้ดูแลหลัก - [Pooya Parsa](https://github.com/pi0)
 
 ### Português-Br
 
