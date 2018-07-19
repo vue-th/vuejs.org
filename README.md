@@ -22,11 +22,13 @@ Translation for this documentation project are currently maintained in separate 
 
 การแปลเอกสารโครงการนี้ ถูกดูแลโดย Repository ต่างๆ ที่แยกจากกัน ซึ่งแตกสาย (fork) ออกมาจากต้นฉบับ
 
-### French
+### ภาษาฝรั่งเศส (French)
 
 French translation is maintained by Vuejs-FR.
 
-* Translation Repo - [/vuejs-fr/vuejs.org](https://github.com/vuejs-fr/vuejs.org)
+การแปลในภาษาฝรั่งเศส ดูแลโดย Vuejs-FR ทีม
+
+* Repo สำหรับการแปล - [/vuejs-fr/vuejs.org](https://github.com/vuejs-fr/vuejs.org)
 
 ### Italian
 
