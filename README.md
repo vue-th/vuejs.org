@@ -68,12 +68,12 @@ French translation is maintained by Vuejs-FR.
 
 * Repo สำหรับการแปล - [/vuejs-br/br.vuejs.org](https://github.com/vuejs-br/br.vuejs.org)
 
-### Russian
+### ภาษารัสเซีย (Russian)
 
-Russian translation is maintained by Translation Gang.
+การแปลในภาษารัสเซีย ดูแลโดย Translation Gang.
 
-* Translation Repo - [/translation-gang/ru.vuejs.org](https://github.com/translation-gang/ru.vuejs.org)
-* Primary maintainer - [Grigoriy Beziuk](https://gbezyuk.github.io)
+* Repo สำหรับการแปล - [/translation-gang/ru.vuejs.org](https://github.com/translation-gang/ru.vuejs.org)
+* ผู้ดูแลหลัก - [Grigoriy Beziuk](https://gbezyuk.github.io)
 
 ### Spanish
 
