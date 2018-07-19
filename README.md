@@ -24,8 +24,6 @@ Translation for this documentation project are currently maintained in separate 
 
 ### ภาษาฝรั่งเศส (French)
 
-French translation is maintained by Vuejs-FR.
-
 การแปลในภาษาฝรั่งเศส ดูแลโดย Vuejs-FR ทีม
 
 * Repo สำหรับการแปล - [/vuejs-fr/vuejs.org](https://github.com/vuejs-fr/vuejs.org)
@@ -46,7 +44,7 @@ French translation is maintained by Vuejs-FR.
 
 ### ภาษาเกาหลี (Korean)
 
-การแปลในภาษาเกาหลี ดูแลโดย [กลุ่มผู้ใช้งาน Vue.js ชาวเกาหลี](https://github.com/vuejs-kr).
+การแปลในภาษาเกาหลี ดูแลโดย [กลุ่มผู้ใช้งาน Vue.js ชาวเกาหลี](https://github.com/vuejs-kr)
 
 * Repo สำหรับการแปล - [/vuejs-kr/kr.vuejs.org](https://github.com/vuejs-kr/kr.vuejs.org)
 * ผู้ดูแลหลัก - [ChangJoo Park](https://github.com/ChangJoo-Park)
@@ -57,29 +55,29 @@ French translation is maintained by Vuejs-FR.
 
 ### ภาษาเปอร์เซีย (Persian หรือ Farsi)
 
-การแปลในภาษาเปอร์เซีย ดูแลโดย VueJS-fa.
+การแปลในภาษาเปอร์เซีย ดูแลโดย VueJS-fa
 
 * Repo สำหรับการแปล - [/vuejs-fa/fa.vuejs.org](https://github.com/vuejs-fa/fa.vuejs.org)
 * ผู้ดูแลหลัก - [Pooya Parsa](https://github.com/pi0)
 
 ### ภาษาโปดุเกส-บราซิล (Português-Br)
 
-การแปลในภาษาโปตุเกส-บลาซิล ดูแลโดย [Vuejs-Br](https://github.com/vuejs-br).
+การแปลในภาษาโปตุเกส-บลาซิล ดูแลโดย [Vuejs-Br](https://github.com/vuejs-br)
 
 * Repo สำหรับการแปล - [/vuejs-br/br.vuejs.org](https://github.com/vuejs-br/br.vuejs.org)
 
 ### ภาษารัสเซีย (Russian)
 
-การแปลในภาษารัสเซีย ดูแลโดย Translation Gang.
+การแปลในภาษารัสเซีย ดูแลโดย Translation Gang
 
 * Repo สำหรับการแปล - [/translation-gang/ru.vuejs.org](https://github.com/translation-gang/ru.vuejs.org)
 * ผู้ดูแลหลัก - [Grigoriy Beziuk](https://gbezyuk.github.io)
 
-### Spanish
+### ภาษาสเปน (Spanish)
 
-Spanish translation is maintained by VueJS-ES.
+การแปลในภาษาสเปน ดูแลโดย VueJS-ES
 
-* Translation Repo - [/vuejs-es/vuejs.org](https://github.com/vuejs-es/vuejs.org)
+* Repo สำหรับการแปล - [/vuejs-es/vuejs.org](https://github.com/vuejs-es/vuejs.org)
 
 ### Vietnamese
 
