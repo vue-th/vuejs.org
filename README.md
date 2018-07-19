@@ -16,9 +16,11 @@ $ npm start # dev server at http://localhost:4000
 หากคุณเป็นผู้ดูแลของชุมชนที่ดูแลการแปลในภาษาใดภาษาหนึ่ง และต้องการนำขึ้นใช้งานด้วย Netlify แทน GitHub pages กรุณาส่งเรื่องมายัง @yyx990803 เพื่อขอสิทธิสมาชิกภาพใน Netlify และทำการอัพเดต DNS
 
 
-## On Translations
+## การแปลในภาษาต่างๆ
 
 Translation for this documentation project are currently maintained in separate repositories forked from this original one.
+
+การแปลเอกสารโครงการนี้ ถูกดูแลโดย Repository ต่างๆ ที่แยกจากกัน ซึ่งแตกสาย (fork) ออกมาจากต้นฉบับ
 
 ### French
 
