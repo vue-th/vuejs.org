@@ -1,20 +1,46 @@
 ---
-title: Introduction
+title: บทนำ (Introduction)
 type: guide
 order: 2
 ---
 
 ## What is Vue.js?
+## Vue.js คืออะไร?
 
-Vue (pronounced /vjuː/, like **view**) is a **progressive framework** for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects. On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with [modern tooling](single-file-components.html) and [supporting libraries](https://github.com/vuejs/awesome-vue#components--libraries).
+Vue (ออกเสียงว่า วิว /vjuː/, คล้าย **view**) คือ **เฟรมเวิร์คที่ก้าวหน้า** สำหรับสร้างส่วนติดต่อกับผู้ใช้ (UI) 
+ต่างจากเฟรมเวิร์คขนาดใหญ่อื่นๆ Vue ถูกออกแบบตั้งแต่แรกให้สามารถนำไปใช้แบบเพิ่มเติมได้อย่างต่อเนื่อง โดยไลบราลี่แกนหลักนั้นจะมุ่งไปที่การแสดงผลเพียงอย่างเดียว และง่ายที่จะนำไปใช้ร่วมกับไลบราลี่อื่นๆ หรือโครงการที่มีอยู่แล้ว
+Vue (pronounced /vjuː/, like **view**) is a **progressive framework** for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects. 
 
+หรืออีกนัยคือ Vue นั้นสามารถใช้ขับเคลื่อนแอพพลิเคชันแบบหน้าเดียวที่มีความซับซ้อน (Single-Page Application) ได้อย่างยอดเยี่ยม เมื่อนำไปใช้ร่วมกับ [เครื่องมือที่ทันสมัย](single-file-components.html) และ [ไลบรารี่ที่สนับสนุน](https://github.com/vuejs/awesome-vue#components--libraries).
+On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with [modern tooling](single-file-components.html) and [supporting libraries](https://github.com/vuejs/awesome-vue#components--libraries).
+
+หากคุณอยากรู้จัก Vue เพิ่มเติมอีกสักนิด ก่อนจะลงลึกในรายละเอียด  เรา <a id="modal-player"  href="#">ได้สร้างวิดีโอ </a> ที่จะพาคุณไปรู้จักกับหลักสำคัญ และโครงการตัวอย่าง
 If you’d like to learn more about Vue before diving in, we <a id="modal-player"  href="#">created a video</a> walking through the core principles and a sample project.
 
+หากคุณคือนักพัฒนา Frontend ที่มีประสบการณ์แล้ว และอยากรู้ว่า Vue นั้นเป็นอย่างไรเมื่อเทียบกับไลบรารี่หรือเฟรมเวิร์คอื่นๆ ลองดูที่ [การเปรียบเทียบกับเฟรมเวิร์คอื่นๆ](comparison.html)
 If you are an experienced frontend developer and want to know how Vue compares to other libraries/frameworks, check out the [Comparison with Other Frameworks](comparison.html).
 
+## เริ่มต้นกันเลย
 ## Getting Started
 
+<p class="tip">คู่มือแนะนำอย่างเป็นทางการนี้ อ้างอิงโดยใช้ความรู้ด้าน HTML, CSS และ JavaScript ในระดับปานกลาง หากคุณยังใหม่สำหรับการพัฒนา Frontend มันอาจไม่ใช่ความคิดที่ดีเยี่ยมที่จะเริ่มใช้เฟรมเวิร์คตั้งแต่ก้าวแรก ขอให้เรียนรู้พื้นฐานก่อน แล้วกลับมาอีกครั้ง
+ประสบการณ์ในเฟรมเวิร์คอื่นๆ อาจจะช่วยได้ แต่ไม่จำเป็นต้องมี</p>
 <p class="tip">The official guide assumes intermediate level knowledge of HTML, CSS, and JavaScript. If you are totally new to frontend development, it might not be the best idea to jump right into a framework as your first step - grasp the basics then come back! Prior experience with other frameworks helps, but is not required.</p>
+
+วิธีที่ง่ายที่สุด ในการลองใช้งาน Vue.js คือการใช้ [ตัวอย่าง Hello World บน JSFiddle](https://jsfiddle.net/chrisvfritz/50wL7mdz/).
+ลองเปิดมันในอีกแท็บ และทำตามเรื่อยๆ เราจะผ่านตัวอย่างพื้นฐานในบางเรื่อง
+หรือคุณสามารถ <a href="https://gist.githubusercontent.com/chrisvfritz/7f8d7d63000b48493c336e48b3db3e52/raw/ed60c4e5d5c6fec48b0921edaed0cb60be30e87c/index.html" target="_blank" download="index.html">สร้างไฟล์ <code>index.html</code></a> และเพิ่ม Vue ด้วย:
+``` html
+<!-- เวอร์ชันสำหรับพัฒนา ซึ่งจะแสดงคำเตือนที่มีประโยชน์ผ่าน console -->
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+```
+
+หรือ:
+
+``` html
+<!-- เวอร์ชันสำหรับใช้งานจริง ปรับแต่งเพื่อขนาด และความเร็วที่ดี -->
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+```
 
 The easiest way to try out Vue.js is using the [JSFiddle Hello World example](https://jsfiddle.net/chrisvfritz/50wL7mdz/). Feel free to open it in another tab and follow along as we go through some basic examples. Or, you can <a href="https://gist.githubusercontent.com/chrisvfritz/7f8d7d63000b48493c336e48b3db3e52/raw/ed60c4e5d5c6fec48b0921edaed0cb60be30e87c/index.html" target="_blank" download="index.html">create an <code>index.html</code> file</a> and include Vue with:
 
@@ -23,15 +49,18 @@ The easiest way to try out Vue.js is using the [JSFiddle Hello World example](ht
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 ```
 
-or:
+Or:
 
 ``` html
 <!-- production version, optimized for size and speed -->
 <script src="https://cdn.jsdelivr.net/npm/vue"></script>
 ```
 
+ในหน้า [การติดตั้ง](installation.html) นั้นเสนอทางเลือกอื่นๆ ในการติดตั้ง Vue ให้คุณ
+หมายเหตุ: เรา**ไม่แนะนำ**ให้ผู้เริ่มต้น เริ่มใช้งานจาก `vue-cli` โดยเฉพาะอย่างยิ่ง หากคุณไม่คุ้นเคยกับเครื่องมือในการ Build ที่อยู่บน Node.js
 The [Installation](installation.html) page provides more options of installing Vue. Note: We **do not** recommend that beginners start with `vue-cli`, especially if you are not yet familiar with Node.js-based build tools.
 
+หากคุณสนใจสิ่งที่ตอบสนองได้ดีกว่า คุณสามารถเข้าไปชม [ชุดสื่อการสอนบน Scrimba](https://scrimba.com/playlist/pXKqta) ซึ่งมีตัวอย่างจากภาพหน้าจอที่หลากหลาย และมีเครื่องมือ Code ให้คุณได้ลองเล่น ซึ่งคุณสามารถเล่น และหยุดได้ทุกเมื่อที่ต้องการ
 If you prefer something more interactive, you can also check out [this tutorial series on Scrimba](https://scrimba.com/playlist/pXKqta), which gives you a mix of screencast and code playground that you can pause and play around with anytime.
 
 ## Declarative Rendering
