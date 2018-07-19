@@ -2,7 +2,7 @@
 
 ไซต์นี้ถูกสร้างด้วย [hexo](http://hexo.io/). เนื้อหาถูกเขียนในรูปแบบ Markdown อยู่ในโฟลเดอร์ `src`. ยินดีต้อนรับทุก Pull requests.
 
-## Developing
+## เริ่มการพัฒนา (Developing)
 
 ``` bash
 $ npm install
