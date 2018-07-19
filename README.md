@@ -17,7 +17,8 @@ The site is automatically deployed when commits land in `master`, via [Netlify](
 
 If you are the maintainer of a community translation fork and would like to deploy via Netlify instead of GitHub pages, please ping @yyx990803 in an issue to request a Netlify team membership and DNS update.
 
-หากคุณเป็นผู้ดูแลของชุมชนที่ดูแลการแปลในภาษาใดภาษาหนึ่ง และต้องการนำขึ้นใช้งานด้วย Netlify แทน GitHub pages กรุณาส่งเรื่องมายัง @yyx990803 เพื่อส่งคำร้องต่อไปยังทีม Netlify
+หากคุณเป็นผู้ดูแลของชุมชนที่ดูแลการแปลในภาษาใดภาษาหนึ่ง และต้องการนำขึ้นใช้งานด้วย Netlify แทน GitHub pages กรุณาส่งเรื่องมายัง @yyx990803 เพื่อขอสิทธิสมาชิกภาพใน Netlify และทำการอัพเดต DNS
+
 
 ## On Translations
 
