@@ -44,12 +44,12 @@ French translation is maintained by Vuejs-FR.
     * [re-fort](https://github.com/re-fort)
     * [potato4d](https://github.com/potato4d)
 
-### Korean
+### ภาษาเกาหลี (Korean)
 
-Korean translation is maintained by [Vue.js Korean User group](https://github.com/vuejs-kr).
+การแปลในภาษาเกาหลี ดูแลโดย [กลุ่มผู้ใช้งาน Vue.js ชาวเกาหลี](https://github.com/vuejs-kr).
 
-* Translation Repo - [/vuejs-kr/kr.vuejs.org](https://github.com/vuejs-kr/kr.vuejs.org)
-* Primary maintainer - [ChangJoo Park](https://github.com/ChangJoo-Park)
+* Repo สำหรับการแปล - [/vuejs-kr/kr.vuejs.org](https://github.com/vuejs-kr/kr.vuejs.org)
+* ผู้ดูแลหลัก - [ChangJoo Park](https://github.com/ChangJoo-Park)
 
 ### Mandarin
 
