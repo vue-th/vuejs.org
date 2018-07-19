@@ -34,13 +34,13 @@ French translation is maintained by Vuejs-FR.
 
 * Repo สำหรับการแปล - [/vuejs/it.vuejs.org](https://github.com/vuejs/it.vuejs.org)
 
-### Japanese
+### ภาษาญี่ปุ่น (Japanese)
 
-Japanese translation is maintained by [Vue.js japan user group](https://github.com/vuejs-jp)
+การแปลในภาษาญี่ปุ่น ดูแลโดย [กลุ่มผู้ใช้งาน Vue.js จากญี่ปุ่น](https://github.com/vuejs-jp)
 
-* Translation Repo - [/vuejs/jp.vuejs.org](https://github.com/vuejs/jp.vuejs.org)
-* Primary maintainer - [kazupon](https://github.com/kazupon)
-* Secondary Maintainers:
+* Repo สำหรับการแปล - [/vuejs/jp.vuejs.org](https://github.com/vuejs/jp.vuejs.org)
+* ผู้ดูแลหลัก - [kazupon](https://github.com/kazupon)
+* ผู้ดูแลรอง:
     * [re-fort](https://github.com/re-fort)
     * [potato4d](https://github.com/potato4d)
 
